@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.reyaz</groupId>
-	<artifactId>myapp</artifactId>
+	<artifactId>ManuBujjiapp</artifactId>
 	<packaging>war</packaging>
 	<version>8.3.3-SNAPSHOT</version>
 	<name>myapp</name>
@@ -28,7 +28,7 @@
 
 	</dependencies>
   <build>
-    <finalName>myapp</finalName>
+    <finalName>ManuBujjiapp</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
